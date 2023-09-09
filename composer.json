@@ -8,6 +8,11 @@
             "MMierzynski\\PimcoreRestApi\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+          "MMierzynski\\PimcoreRestApi\\Tests": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Mateusz Mierzyński",
